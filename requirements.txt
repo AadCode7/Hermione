@@ -1,0 +1,22 @@
+streamlit==1.32.0
+langchain>=0.1.0
+langchain-huggingface>=0.1.0
+faiss-cpu==1.7.4
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+torch==2.2.1
+transformers>=4.38.2
+tokenizers>=0.19.1
+sentence-transformers>=2.6.0
+huggingface-hub>=0.23.0
+safetensors==0.4.2
+tiktoken>=0.6.0
+llama-index>=0.10.3
+langgraph>=0.0.25
+accelerate>=0.27.2
+bitsandbytes>=0.42.0
+einops>=0.7.0
+# Add specific library for LLaMA access if needed, e.g.:
+# ollama
+# replicate
+# groq 
