@@ -21,11 +21,6 @@ A character-based chatbot emulating Hermione Granger from the Harry Potter serie
 2. Create a `.env` file in the root directory with your Hugging Face API key
 3. Install the required dependencies
 
-## Notes
-
-- The chatbot uses the `sentence-transformers/all-mpnet-base-v2` model for embeddings
-- The LLAMA2 model is used for text generation
-- The PDF processor extracts text from the first Harry Potter book for knowledge retrieval
 
 ## How It Works
 
